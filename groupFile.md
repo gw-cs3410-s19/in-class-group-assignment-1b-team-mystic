@@ -1,4 +1,4 @@
 a. Team Mystic <br>
-b. Dennis Afanasev
+b. Dennis Afanasev <br>
 c. Harmon Mendelowitz
 
